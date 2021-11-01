@@ -10,6 +10,6 @@ The Data consistes of two different files - positive reviews and negative review
 
 The data will first be needed to convert into vectors. we'll use the feature Matrix to convert english language into their mathematical representation. This is done according to the rules given into the feature matrix. 
 
-[! image of feature matrix]
+! [Image of feature matrix]
 
 (https://github.com/ShreyasKapoor/natural-language-processing/blob/master/logistic-regression/featureMatrix.png)
